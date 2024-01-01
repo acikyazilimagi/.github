@@ -1,5 +1,7 @@
 ## Açık Yazılım Ağı
 
-Açık Yazılım Ağı, toplum yararını gözeten yazılım çözümleri üretme motivasyonuyla bir araya gelmiş gönüllülerin oluşturduğu bir yapıdır. Bizler uzmanı olduğumuz bilişim teknolojilerini ve açık kaynak geliştirme pratiklerini kullanarak resmi kurumlar ve sivil toplum kuruluşları başta olmak üzere herkesin erişimine açık, kolektif oluşturulan, üzerinde bir hak sahipliği bulunmayan yazılım çözümleri geliştiriyoruz.
+Açık Yazılım Ağı (AYA), gönüllülerin toplum yararını gözeten yazılım tabanlı çözümler üretme motivasyonuyla bir araya gelip geliştirmiş oldukları yazılımları açık kaynak olarak yayınlandıkları bir platformdur.
+
+Bugüne kadar bilişim sektörü gönüllülerinin, uzmanı olduğu bilişim teknolojilerini kullanarak kolektif bir şekilde projelerini gerçeklenmelerinde katkılar sağladık. Bu projeler resmi kurumlar ve sivil toplum kuruluşları başta olmak üzere herkesin erişimine ve denetimine açık, üzerinde bir hak sahipliği bulunmayan yazılım çözümleri oldular. Bizim buradaki rolümüz hem iletişime aracı olmak hem de kaynak yönetiminde koordinasyon sağlamak oldu.
 
 [Yazının Devamı](https://acikyazilimagi.com/about/)
